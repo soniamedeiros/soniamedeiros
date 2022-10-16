@@ -35,3 +35,5 @@ Some of the technologies I've worked with include:
 
 [![Top Languages from public code](https://github-readme-stats.vercel.app/api/top-langs/?username=soniamedeiros&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/soniamedeiros/soniamedeiros/blob/output/github-contribution-grid-snake.svg)
+
