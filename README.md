@@ -16,7 +16,7 @@
 Some of the technologies I've worked with include:
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" height="25"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" height="25"/>
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" height="25"/>
