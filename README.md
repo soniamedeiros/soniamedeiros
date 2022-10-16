@@ -1,4 +1,6 @@
-### Hi there 👋 I´m Sonia
+### Hi there 👋 I´m Sonia 
+
+I'm from Brazil 🌎
 
 - 🔭 I’m currently studying Information Technology at Univesp
 - 🌱 I’m currently learning Html, Css, React, Python, Django...
