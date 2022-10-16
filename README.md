@@ -3,6 +3,12 @@
 - 🔭 I’m currently studying Information Technology at Univesp
 - 🌱 I’m currently learning Html, Css, React, Python, Django...
 
+## Passions:
+
+- 🗽 Travel
+- 🎼 Music
+- 🎬 Films
+
 ## Contatos:
 
 <div>
