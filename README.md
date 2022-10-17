@@ -9,7 +9,7 @@ I'm from Brazil 🌎
 
 - 🗽 Travel
 - 🎼 Music
-- 🎬 Films
+- 🎬 Movies
 
 ## Contatos:
 
