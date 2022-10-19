@@ -10,6 +10,7 @@ I'm from Brazil 🌎
 - 🗽 Travel
 - 🎼 Music
 - 🎬 Movies
+- 📕 Books
 
 ## Contatos:
 
